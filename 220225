@@ -1,0 +1,27 @@
+HTML
+OL : ordered list
+UL : unordered list
+BLOCK - INLINE 구분
+div, span : 의미가 없고 요소 간의 구분만을 위해서 쓰는 태그
+div : BLOCK level 요소
+span : INLINE level 요소
+
+구현
+<ol>
+  <li>Hi!<li>
+</ol>
+
+댓글 기능 추가
+DISQUS : https://disqus.com/
+LIVERE : https://livere.com/
+
+상담원 채팅 같은 기능
+TAWK TO : https://www.tawk.to/
+
+사이트 트래픽 분석
+GOOGLE ANALITICS : https://analytics.google.com/
+
+CSS
+BOX MODEL : content - padding - border - margin
+grid : 뜻 그대로 격자 레이아웃
+px : pixel (픽셀 단위), fr : fraction (비율 단위)
