@@ -23,5 +23,13 @@ GOOGLE ANALITICS : https://analytics.google.com/
 
 CSS
 BOX MODEL : content - padding - border - margin
-grid : 뜻 그대로 격자 레이아웃
+grid : 뜻 그대로 격자 레이아웃, 여러 가지 템플릿 존재
 px : pixel (픽셀 단위), fr : fraction (비율 단위)
+미디어 쿼리 예시
+@media 'media-type (기본값 = all)' and ('media-feature-rule') {
+  /* CSS rules go here */
+}
+뜻 : 타입에 맞는 미디어를 조건에 따라 아래 규칙대로 바꾼다.
+
+지원 가능 브라우저 검색
+https://caniuse.com/
