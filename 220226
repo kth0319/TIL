@@ -1,0 +1,15 @@
+JAVASCRIPT, HTML
+head, body, window, document 등의 큰 요소 + addEventListener('인식할 이벤트', 실행할 함수)
+
+이벤트, 속성 검색 : console.dir, MDN 참고
+
+입력 박스를 넣고 싶을 때 : <input> 태그
+브라우저가 제공하는 submit 기능 사용하려면 <form> 태그 필요
+
+예시: 
+<form class="Log In">
+  <input requried maxlength=15 class="UserInput" type="text" placeholder="What is your name?"/>
+  <button>Log In</button>
+</form>
+
+인풋을 인식해서 버튼도 대신 눌러준다.
